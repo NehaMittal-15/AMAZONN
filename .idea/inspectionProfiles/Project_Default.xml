@@ -1,0 +1,49 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="register" />
+            <item index="1" class="java.lang.String" itemvalue="placeholder" />
+            <item index="2" class="java.lang.String" itemvalue="topmost" />
+            <item index="3" class="java.lang.String" itemvalue="message.tags" />
+            <item index="4" class="java.lang.String" itemvalue="endif" />
+            <item index="5" class="java.lang.String" itemvalue="{%" />
+            <item index="6" class="java.lang.String" itemvalue="%}" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodOverridingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E225" />
+          <option value="E305" />
+          <option value="E111" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="busproject.businfoo.curr" />
+          <option value="web.views" />
+          <option value="login_register.user_login.views.user_login" />
+          <option value="library_M.LibraryM" />
+          <option value="OnlineShopping.website.models.Product.objects" />
+          <option value="hospital.views" />
+          <option value="urllib2" />
+          <option value="super.form_valid" />
+          <option value="book.cal.views.google_auth_oauthlib" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="XmlDuplicatedId" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  </profile>
+</component>
